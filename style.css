@@ -7,3 +7,22 @@ div {
   background-clip: content-box;
 }
 
+#first {
+}
+
+#second {
+  margin-top: 50px;
+  margin-bottom: 5px;
+  padding: 50px 50px;
+}
+
+#third {
+  margin-bottom: 5px;
+  padding: 50px;
+  padding-bottom: 50px;
+}
+
+#fourth {
+  margin-top: 100px;
+  padding: 15px 120px 30px 180px;
+}
